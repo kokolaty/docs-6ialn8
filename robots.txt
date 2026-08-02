@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-1h1mib.bighoki13sdc.sbs/sitemap.xml
